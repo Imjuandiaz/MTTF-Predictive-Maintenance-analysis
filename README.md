@@ -2,6 +2,8 @@
 A Complete End-to-End ML Pipeline for Classification, Regression, Anomaly Detection & Clustering
 📌 Overview
 
+Streamlit Deploy: https://apppredectivemaintenance-5cw3xqbby8bwcjy9gkmd4k.streamlit.app/
+
 This project implements a full predictive maintenance system using machine-learning techniques to:
 
 ✅ Predict machine failures within 30 days (classification)
